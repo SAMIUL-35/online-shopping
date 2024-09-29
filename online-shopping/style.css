@@ -1,0 +1,15 @@
+.carousel-controls {
+    position: absolute;
+    bottom: 20px;  
+    left: 30px;    
+    display: flex;
+    width: 40px;  
+    
+.carousel-control-prev,.carousel-control-next {
+ color: black;
+    font-size: 3rem;     
+  
+}
+
+
+
